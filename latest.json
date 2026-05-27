@@ -1,0 +1,10 @@
+{
+  "version":      "2026.05.27",
+  "releasedAt":   "2026-05-27T14:55:22Z",
+  "downloadUrl":  "https://t.me/+REPLACE_WITH_YOUR_TELEGRAM_LINK",
+  "directZipUrl": "https://github.com/sotsunpunleuss-max/sot-sunpunleu-licenses/releases/download/v2026.05.27/SOT_SUNPUNLEU_Setup_v2026.05.27.zip",
+  "sha256":       "5a27b5d2ba3a3390deb56afe746a8ef8af6b8d819e3f93b8c1aef44906de9be7",
+  "sizeBytes":    2174176,
+  "mandatory":    false,
+  "releaseNotes": ["First release with auto-update notifier", "Topo Slice top-layer plate fix", "Smoother loading panel", "Theme + bug fixes across 40+ tools"]
+}
