@@ -1,10 +1,10 @@
 {
-  "version":      "2026.05.27",
-  "releasedAt":   "2026-05-27T14:55:22Z",
-  "downloadUrl":  "https://t.me/+REPLACE_WITH_YOUR_TELEGRAM_LINK",
-  "directZipUrl": "https://github.com/sotsunpunleuss-max/sot-sunpunleu-licenses/releases/download/v2026.05.27/SOT_SUNPUNLEU_Setup_v2026.05.27.zip",
-  "sha256":       "5a27b5d2ba3a3390deb56afe746a8ef8af6b8d819e3f93b8c1aef44906de9be7",
-  "sizeBytes":    2174176,
+  "version":      "2.0.1",
+  "releasedAt":   "2026-06-05T14:51:47Z",
+  "downloadUrl":  "https://t.me/+85599776999",
+  "directZipUrl": "https://sotsunpunleuss-max.github.io/sot-sunpunleu-licenses/SOT_SUNPUNLEU_Setup_v2.0.1.zip",
+  "sha256":       "895a4d3b4340ebb300b06c4345e46ec6bd33ea4aa8833f93d7da16fb46c8dbef",
+  "sizeBytes":    3688321,
   "mandatory":    false,
-  "releaseNotes": ["First release with auto-update notifier", "Topo Slice top-layer plate fix", "Smoother loading panel", "Theme + bug fixes across 40+ tools"]
+  "releaseNotes": ["Lifetime license option", "Fixed license activation on your computer (fingerprint)", "Working Revoke + Delete in License Manager", "Faster license checks + Check-now button", "Bug fixes"]
 }
